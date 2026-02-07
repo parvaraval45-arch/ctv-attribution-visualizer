@@ -2,7 +2,7 @@
 
 > Interactive tool for understanding cross-device conversion journeys in Connected TV advertising
 
-[Live Demo](your-vercel-url) | [Video Walkthrough](youtube-link)
+[Live Demo](https://ctv-attribution-visualizer.vercel.app) | [Video Walkthrough](youtube-link)
 
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?logo=vite&logoColor=white)
