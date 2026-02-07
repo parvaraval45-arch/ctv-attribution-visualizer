@@ -280,13 +280,13 @@ function App() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
             <p>
               Built by{' '}
-              <span className="text-gray-300 font-medium">Rock Raval</span> for
-              The Trade Desk PM Internship Application (Measurement Team)
+              <span className="text-gray-300 font-medium">Parva Raval</span> for
+              The Trade Desk PM Internship Application
             </p>
 
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com/rockraval"
+                href="https://github.com/parvaraval45-arch"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1 text-gray-400 hover:text-white transition-colors"
@@ -296,7 +296,7 @@ function App() {
                 <ExternalLink className="w-2.5 h-2.5" />
               </a>
               <a
-                href="https://linkedin.com/in/rockraval"
+                href="https://linkedin.com/in/parvaraval"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1 text-gray-400 hover:text-white transition-colors"
@@ -306,7 +306,7 @@ function App() {
                 <ExternalLink className="w-2.5 h-2.5" />
               </a>
               <a
-                href="mailto:rock@example.com"
+                href="mailto:parva.raval45@gmail.com"
                 className="flex items-center gap-1 text-gray-400 hover:text-white transition-colors"
               >
                 <Mail className="w-3.5 h-3.5" />

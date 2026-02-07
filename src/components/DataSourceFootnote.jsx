@@ -7,7 +7,7 @@ export default function DataSourceFootnote() {
       <p className="text-[11px] text-gray-500 leading-relaxed">
         <span className="text-gray-400 font-medium">Data Source:</span> This
         visualization uses synthetic data generated for demonstration purposes
-        as part of a Trade Desk PM Internship Application (Measurement Team).
+        as part of a Trade Desk PM Internship Application.
         Attribution confidence scores, conversion volumes, and incrementality
         metrics are modeled to reflect realistic CTV campaign patterns but do
         not represent actual campaign performance.

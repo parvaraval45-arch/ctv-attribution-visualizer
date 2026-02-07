@@ -87,7 +87,7 @@ Interactive tooltips explaining device crossover, ghost bidding, attribution con
 
 ```bash
 # Clone the repository
-git clone https://github.com/rockraval/ctv-attribution-visualizer.git
+git clone https://github.com/parvaraval45-arch/ctv-attribution-visualizer.git
 cd ctv-attribution-visualizer
 
 # Install dependencies
@@ -231,7 +231,7 @@ CTV is projected to represent 50%+ of programmatic TV budgets by 2026. Helping a
 
 ## About This Project
 
-Built by **Rock Raval** for The Trade Desk 2026 PM Internship Application (Measurement Team).
+Built by **Parva Raval** for The Trade Desk 2026 PM Internship Application.
 
 This prototype demonstrates:
 - Deep understanding of CTV measurement challenges and The Trade Desk's approach
@@ -241,9 +241,9 @@ This prototype demonstrates:
 
 ### Connect
 
-- [LinkedIn](https://linkedin.com/in/rockraval)
-- [GitHub](https://github.com/rockraval)
-- [Email](mailto:rock@example.com)
+- [LinkedIn](https://linkedin.com/in/parvaraval45-arch)
+- [GitHub](https://github.com/parvaraval45-arch)
+- [Email](mailto:parva.raval45@gmail.com)
 
 ---
 

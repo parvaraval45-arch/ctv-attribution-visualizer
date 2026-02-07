@@ -537,7 +537,7 @@ export async function exportPDFReport(campaignData, attributionMode, sankeyPlotE
   doc.setFontSize(8);
   doc.setTextColor(160);
   const methodNotes = [
-    "This report uses synthetic data generated for demonstration purposes as part of a Trade Desk PM Internship Application (Measurement Team).",
+    "This report uses synthetic data generated for demonstration purposes as part of a Trade Desk PM Internship Application.",
     "Cross-device attribution is modeled using probabilistic matching algorithms with confidence scores ranging from 0-100%.",
     `Attribution mode: ${attributionMode === "household" ? "Household-level (confidence x1.15, broader matching)" : "Individual-level (confidence x0.85, stricter matching)"}.`,
     "Incrementality is measured via exposed vs control (ghost bidding) methodology, with statistical significance assessed at p < 0.05.",
